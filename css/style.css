@@ -711,17 +711,10 @@ margin-bottom: 40px;
         flex:0 0 50%;
         max-width: 50%;
     }
-    .home.home-info{
+    .home .home-info{
         flex:0 0 100%;
-        max-width: 100% !important;
+        max-width: 100% ;
     }
-  .home.home-info p{
-   width:80vh !important;
-   text-align:center !important;
-   max-width: 80% !important;
-   margin-left:4px !important;
-   margin-right:4px !important;
-  }
     .home .home-img{
         display:none;
     }
@@ -739,12 +732,5 @@ margin-bottom: 40px;
         flex:0 0 100%;
         max-width:100%;
     }
-   .home.home-info p{
-   width:80vh !important;
-   text-align:center !important;
-   max-width: 80% !important;
-   margin-left:4px !important;
-   margin-right:4px !important;
-  }
 }
 
