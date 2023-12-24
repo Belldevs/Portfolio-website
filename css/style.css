@@ -716,11 +716,11 @@ margin-bottom: 40px;
         max-width: 100% !important;
     }
   .home.home-info p{
-   width:80vh;
-   text-align:center;
-   max-width: 80%;
-   margin-left:4px ;
-   margin-right:4px;
+   width:80vh !important;
+   text-align:center !important;
+   max-width: 80% !important;
+   margin-left:4px !important;
+   margin-right:4px !important;
   }
     .home .home-img{
         display:none;
@@ -739,5 +739,12 @@ margin-bottom: 40px;
         flex:0 0 100%;
         max-width:100%;
     }
+   .home.home-info p{
+   width:80vh !important;
+   text-align:center !important;
+   max-width: 80% !important;
+   margin-left:4px !important;
+   margin-right:4px !important;
+  }
 }
 
